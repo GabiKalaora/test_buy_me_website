@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<buy_me_website>
+  <browser_type>Chrome</browser_type>
+  <excepted_title>title_to_insert</excepted_title>
+  <first_name>Gabi</first_name>
+  <mail>gabikakakaka@gmail.com</mail>
+  <password>Gabi1994@gmail.com</password>
+  <password_confirm>Gabi1994@gmail.com</password_confirm>
+</buy_me_website>
